@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CrossbodyBagTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-09-29T18:37:05" hostname="ZhangdeMacBook-Air.local" time="0.06">
+  <properties/>
+  <testcase name="TestToString" classname="CrossbodyBagTest" time="0.054"/>
+  <testcase name="TestEnhance" classname="CrossbodyBagTest" time="0.003"/>
+  <testcase name="TestGetNumberOfStraps" classname="CrossbodyBagTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
