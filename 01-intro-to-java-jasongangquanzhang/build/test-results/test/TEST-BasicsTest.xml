@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BasicsTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-09-19T22:32:40" hostname="ZhangdeMacBook-Air.local" time="0.027">
+  <properties/>
+  <testcase name="testTask1" classname="BasicsTest" time="0.023"/>
+  <testcase name="testTask2" classname="BasicsTest" time="0.001"/>
+  <testcase name="testTask3" classname="BasicsTest" time="0.001"/>
+  <testcase name="testTask4" classname="BasicsTest" time="0.001"/>
+  <testcase name="testTask5" classname="BasicsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
